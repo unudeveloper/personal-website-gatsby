@@ -1,10 +1,10 @@
-[**Personal Portfolio Website**](https://github.com/rashmiap/personal-website-react)
+[**Personal Portfolio Website**](https://github.com/unudeveloper/personal-website-gatsby)
 -
 Hello world 👋. <br/>
 This site is developed using [**Gatsby**](https://www.gatsbyjs.org/)🚀.<br/>
 Check out the site at http://rashmiap.me
 
-Illustration Credits - [**Prince Ali Khan**](https://github.com/princealikhan) 👑
+Developed by - (https://github.com/unudeveloper) 👑
 -
 ![Preview Me](src/assets/images/rashmi.svg)
 
